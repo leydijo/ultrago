@@ -1,0 +1,15 @@
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\bin\Debug\net6.0\Ultrago.Data.deps.json
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\bin\Debug\net6.0\Ultrago.Data.dll
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\bin\Debug\net6.0\Ultrago.Data.pdb
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\bin\Debug\net6.0\Ultrago.Models.dll
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\bin\Debug\net6.0\Ultrago.Models.pdb
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\obj\Debug\net6.0\Ultrago.Data.csproj.AssemblyReference.cache
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\obj\Debug\net6.0\Ultrago.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\obj\Debug\net6.0\Ultrago.Data.AssemblyInfoInputs.cache
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\obj\Debug\net6.0\Ultrago.Data.AssemblyInfo.cs
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\obj\Debug\net6.0\Ultrago.Data.csproj.CoreCompileInputs.cache
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\obj\Debug\net6.0\Ultrago.Data.csproj.CopyComplete
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\obj\Debug\net6.0\Ultrago.Data.dll
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\obj\Debug\net6.0\refint\Ultrago.Data.dll
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\obj\Debug\net6.0\Ultrago.Data.pdb
+C:\Users\Leydi\Documents\Estudio_Personal\hotel\Ultrago.Data\obj\Debug\net6.0\ref\Ultrago.Data.dll

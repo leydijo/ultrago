@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UltragoApi", "UltragoApi.csproj", "{677D82B3-A7C8-400B-882A-5332193DD060}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{FBBF8B43-D93C-4167-A20A-6C0F311D8737}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestUltrago", "..\TestUltrago\TestUltrago.csproj", "{75FB62DB-729B-4836-B884-632745A9CAA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultrago.Services", "..\Ultrago.Services\Ultrago.Services.csproj", "{30B6A39D-D164-4C5A-A603-4433237663C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultrago.Models", "..\Ultrago.Models\Ultrago.Models.csproj", "{8E9AB1C7-0A4B-4689-97C6-2E0431EC2A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultrago.Repositories", "..\Ultrago.Repositories\Ultrago.Repositories.csproj", "{C43DA8C9-50D8-4982-BB6D-CF7CA3722EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultrago.Data", "..\Ultrago.Data\Ultrago.Data.csproj", "{0CD9794E-1975-4D0B-8C47-F981E65FC09C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{677D82B3-A7C8-400B-882A-5332193DD060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677D82B3-A7C8-400B-882A-5332193DD060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677D82B3-A7C8-400B-882A-5332193DD060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677D82B3-A7C8-400B-882A-5332193DD060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FB62DB-729B-4836-B884-632745A9CAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FB62DB-729B-4836-B884-632745A9CAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FB62DB-729B-4836-B884-632745A9CAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FB62DB-729B-4836-B884-632745A9CAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B6A39D-D164-4C5A-A603-4433237663C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B6A39D-D164-4C5A-A603-4433237663C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B6A39D-D164-4C5A-A603-4433237663C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B6A39D-D164-4C5A-A603-4433237663C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E9AB1C7-0A4B-4689-97C6-2E0431EC2A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9AB1C7-0A4B-4689-97C6-2E0431EC2A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9AB1C7-0A4B-4689-97C6-2E0431EC2A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9AB1C7-0A4B-4689-97C6-2E0431EC2A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43DA8C9-50D8-4982-BB6D-CF7CA3722EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43DA8C9-50D8-4982-BB6D-CF7CA3722EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43DA8C9-50D8-4982-BB6D-CF7CA3722EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43DA8C9-50D8-4982-BB6D-CF7CA3722EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD9794E-1975-4D0B-8C47-F981E65FC09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD9794E-1975-4D0B-8C47-F981E65FC09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD9794E-1975-4D0B-8C47-F981E65FC09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD9794E-1975-4D0B-8C47-F981E65FC09C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{75FB62DB-729B-4836-B884-632745A9CAA2} = {FBBF8B43-D93C-4167-A20A-6C0F311D8737}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0BBA9FD-EBF9-4090-8E31-4967CDD4E72F}
+	EndGlobalSection
+EndGlobal

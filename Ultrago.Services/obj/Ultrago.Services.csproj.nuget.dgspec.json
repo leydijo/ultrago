@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Services\\Ultrago.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Data\\Ultrago.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Data\\Ultrago.Data.csproj",
+        "projectName": "Ultrago.Data",
+        "projectPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Data\\Ultrago.Data.csproj",
+        "packagesPath": "C:\\Users\\Leydi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Leydi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Models\\Ultrago.Models.csproj": {
+                "projectPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Models\\Ultrago.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Models\\Ultrago.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Models\\Ultrago.Models.csproj",
+        "projectName": "Ultrago.Models",
+        "projectPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Models\\Ultrago.Models.csproj",
+        "packagesPath": "C:\\Users\\Leydi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Leydi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Repositories\\Ultrago.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Repositories\\Ultrago.Repositories.csproj",
+        "projectName": "Ultrago.Repositories",
+        "projectPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Repositories\\Ultrago.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Leydi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Leydi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Data\\Ultrago.Data.csproj": {
+                "projectPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Data\\Ultrago.Data.csproj"
+              },
+              "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Models\\Ultrago.Models.csproj": {
+                "projectPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Models\\Ultrago.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Services\\Ultrago.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Services\\Ultrago.Services.csproj",
+        "projectName": "Ultrago.Services",
+        "projectPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Services\\Ultrago.Services.csproj",
+        "packagesPath": "C:\\Users\\Leydi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Leydi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Models\\Ultrago.Models.csproj": {
+                "projectPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Models\\Ultrago.Models.csproj"
+              },
+              "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Repositories\\Ultrago.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Leydi\\Documents\\Estudio_Personal\\hotel\\Ultrago.Repositories\\Ultrago.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.Identity.Core": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
