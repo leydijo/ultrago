@@ -63,7 +63,7 @@ namespace Ultrago.Services
             }
             room.Enabled = roomEnableDto.Enabled;
             await _context.SaveChangesAsync();
-            // Mapear el hotel a un HotelDto para la respuesta
+            
             var roomDto = new RoomDto
             {
                 Hotel = room.IdHotelNavigation.Name,

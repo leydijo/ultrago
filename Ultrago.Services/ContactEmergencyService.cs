@@ -37,7 +37,7 @@ namespace Ultrago.Services
                 IdReserva = reservation.Id
             };
 
-            // Añadir el contacto de emergencia al contexto y guardar los cambios
+            
             _context.ContactEmergencies.Add(contactEmergency);
             await _context.SaveChangesAsync();
 
